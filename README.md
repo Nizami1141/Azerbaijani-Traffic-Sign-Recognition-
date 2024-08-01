@@ -28,7 +28,10 @@ The dataset used in this project is not included in the repository due to its si
 
 
 ## Results 
-![Val Batch 0 Labels] val_batch0_labels.jpg
+![val_batch0_labels](https://github.com/user-attachments/assets/6602cd68-6ceb-43ea-9b49-fb5f9df13822)
+![val_batch1_labels](https://github.com/user-attachments/assets/7dc91e09-dc85-4f82-b3fa-828af6fa0a8d)
+![val_batch2_labels](https://github.com/user-attachments/assets/458f8ae0-429d-437d-833a-79c88e329777)
+![confusion_matrix_normalized](https://github.com/user-attachments/assets/14b3a3a5-ab4b-40c0-bddb-d92eb01425f0)
 
 
 
