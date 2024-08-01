@@ -11,6 +11,7 @@ This project focuses on recognizing Azerbaijani traffic signs using a deep learn
 - [Data Augmentation](#data-augmentation)
 - [Connection](#connection)
 - [Future Work](#future-work)
+- [Recommendation] (#recommendation)
 
 ## Introduction
 
@@ -48,3 +49,7 @@ Future work includes:
 Expanding the dataset with more diverse traffic signs
 Improving the model's accuracy and robustness
 Implementing real-time traffic sign recognition
+
+## Recommendation
+
+If you have a low-spec computer or have concerns about using the code I’ve committed, I will provide a version compatible with Google Colab. You can run the code in a cloud-based environment without worrying about your local machine's performance.
