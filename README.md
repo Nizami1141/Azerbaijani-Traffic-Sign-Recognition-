@@ -10,7 +10,7 @@ This project focuses on recognizing Azerbaijani traffic signs using a deep learn
 - [Data Augmentation](#data-augmentation)
 - [Connection](#connection)
 - [Future Work](#future-work)
-- [Recommendation] (#recommendation)
+-  [Recommendation](#recommendation)
 
 ## Introduction
 
