@@ -1,0 +1,7 @@
+path: C:/Users/nizam/Downloads/data
+train: C:/Users/nizam/Downloads/data/images/train
+val: C:/Users/nizam/Downloads/data/images/train
+
+# Classes
+names:
+  0: traffic sign
