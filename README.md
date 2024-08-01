@@ -14,6 +14,7 @@ This project focuses on recognizing Azerbaijani traffic signs using a deep learn
 - [Data Augmentation](#data-augmentation)
 - [Contributing](#contributing)
 - [License](#license)
+- [Future Work](#future-work)
 
 ## Introduction
 
@@ -27,11 +28,7 @@ This project aims to build a robust model for traffic sign recognition to assist
 
 ## Dataset
 
-The dataset used in this project is not included in the repository due to its size. You can download the dataset from [this link](#). After downloading, extract the dataset to the `data/` directory.
+The dataset used in this project is not included in the repository due to its size. You can download the dataset from [this link](https://drive.google.com/drive/folders/1SV4TbnJ8LdPBUOEiaTeLwncxDZO0bYpH?usp=drive_link). After downloading, extract the dataset to the `data/` directory.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Nizami1141/Azerbaijani-Traffic-Sign-Recognition.git
-   cd Azerbaijani-Traffic-Sign-Recognition
+## Connection 
+If you want to connect with me I provided the link to my LinkedIn and it's my Gmail: nizami2oo4kuliyev@gmail.com
